@@ -35,4 +35,4 @@ Some C++ APIs are hidden from the wrapper but it is nice to have for debugging.
 
 ## Bug 
 
-Record this into the GitHub issue 
+Record bugs into the GitHub issue 
