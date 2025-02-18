@@ -22,6 +22,8 @@ Open the little paper icon to adjust the script, if you don't see the editor ope
 
 ![Screenshot 2025-02-18 at 1.56.03 PM](https://github.com/ChengranAA/Quest_Benchmark/blob/main/README.assets/Screenshot%202025-02-18%20at%201.56.03%E2%80%AFPM.png)
 
+Scipts for testing should be in the `main.gd` file and under the `func _ready()`. 
+
 ## API
 
 Some C++ APIs are hidden from the wrapper but it is nice to have for debugging. 
