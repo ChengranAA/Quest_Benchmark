@@ -20,7 +20,7 @@ Open the app and import the project
 
 Open the little paper icon to adjust the script, if you don't see the editor open, then click the script tab. 
 
-![Screenshot 2025-02-18 at 1.56.03 PM](./README.assets/Screenshot 2025-02-18 at 1.56.03 PM.png)
+![Screenshot 2025-02-18 at 1.56.03 PM](https://github.com/ChengranAA/Quest_Benchmark/blob/main/README.assets/Screenshot%202025-02-18%20at%201.56.03%E2%80%AFPM.png)
 
 ## API
 
