@@ -2,7 +2,7 @@
 
 ## Project Steup
 
-Install godot
+Install godot 4.3 (stable)
 
 Either from the official website https://godotengine.org or from brew 
 
