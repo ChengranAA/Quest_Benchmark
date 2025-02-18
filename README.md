@@ -18,7 +18,9 @@ git clone <this project url>
 
 Open the app and import the project 
 
+Open the little paper icon to adjust the script, if you don't see the editor open, then click the script tab. 
 
+![Screenshot 2025-02-18 at 1.56.03 PM](/Users/lcraaaa/Desktop/quest_extension/demo/README.assets/Screenshot 2025-02-18 at 1.56.03 PM.png)
 
 ## API
 
